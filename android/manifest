@@ -4,6 +4,7 @@
 #
 version: 1.0
 apiversion: 2
+architectures: armeabi armeabi-v7a x86
 description: Provides access to the Google Analytics Mobile SDK.
 author: Dawson Toth
 license: Apache License, Version 2.0
