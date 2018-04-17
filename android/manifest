@@ -2,18 +2,17 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 1.0
-apiversion: 2
-architectures: armeabi armeabi-v7a x86
+version: 2.0.0
+apiversion: 4
+architectures: arm64-v8a armeabi-v7a x86
 description: Provides access to the Google Analytics Mobile SDK.
 author: Dawson Toth
 license: Apache License, Version 2.0
 copyright: Copyright (c) 2010-2013 by Appcelerator, Inc.
-
 
 # these should not be edited
 name: googleanalytics
 moduleid: ti.googleanalytics
 guid: d8446e59-4726-44a6-b1e9-a33d5cb4742f
 platform: android
-minsdk: 3.1.1.GA
+minsdk: 7.1.0
